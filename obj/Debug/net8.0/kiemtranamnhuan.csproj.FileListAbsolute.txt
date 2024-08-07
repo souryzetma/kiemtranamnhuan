@@ -1,0 +1,14 @@
+E:\kiemtranamnhuan\bin\Debug\net8.0\kiemtranamnhuan.exe
+E:\kiemtranamnhuan\bin\Debug\net8.0\kiemtranamnhuan.deps.json
+E:\kiemtranamnhuan\bin\Debug\net8.0\kiemtranamnhuan.runtimeconfig.json
+E:\kiemtranamnhuan\bin\Debug\net8.0\kiemtranamnhuan.dll
+E:\kiemtranamnhuan\bin\Debug\net8.0\kiemtranamnhuan.pdb
+E:\kiemtranamnhuan\obj\Debug\net8.0\kiemtranamnhuan.GeneratedMSBuildEditorConfig.editorconfig
+E:\kiemtranamnhuan\obj\Debug\net8.0\kiemtranamnhuan.AssemblyInfoInputs.cache
+E:\kiemtranamnhuan\obj\Debug\net8.0\kiemtranamnhuan.AssemblyInfo.cs
+E:\kiemtranamnhuan\obj\Debug\net8.0\kiemtranamnhuan.csproj.CoreCompileInputs.cache
+E:\kiemtranamnhuan\obj\Debug\net8.0\kiemtranamnhuan.dll
+E:\kiemtranamnhuan\obj\Debug\net8.0\refint\kiemtranamnhuan.dll
+E:\kiemtranamnhuan\obj\Debug\net8.0\kiemtranamnhuan.pdb
+E:\kiemtranamnhuan\obj\Debug\net8.0\kiemtranamnhuan.genruntimeconfig.cache
+E:\kiemtranamnhuan\obj\Debug\net8.0\ref\kiemtranamnhuan.dll
